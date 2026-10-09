@@ -1,5 +1,4 @@
 <div align="center">
-
 <div>
 <a href="https://github.com/zijianchen98/FigCodeBench"><img src="https://visitor-badge.laobi.icu/badge?page_id=zijianchen98/FigCodeBench"/></a>
     <a href="https://github.com/zijianchen98/FigCodeBench"><img src="https://img.shields.io/github/stars/zijianchen98/FigCodeBench"/></a>
@@ -10,7 +9,7 @@
 
 <div style="width:20%; text-align:center; margin:auto;">
 <img style="width:50%" src="asset/icon.png"></div>
-</div>
+
 
 <h1>From Pixel to Coding: Evaluating the Figure Reproduction Capabilities of MLLMs</h1>
 
