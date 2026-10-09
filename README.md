@@ -8,7 +8,7 @@
     <a href="https://github.com/zijianchen98/FigCodeBench"><img src="https://img.shields.io/badge/Awesome-FigCodeBench-orange"/></a>
 </div>
 
-<div style="width:40%; text-align:center; margin:auto;">
+<div style="width:20%; text-align:center; margin:auto;">
 <img style="width:100%" src="asset/icon.png"></div>
 </div>
 
@@ -38,7 +38,7 @@ _Evaluating MLLMs on figure reproduction, integrating multimodal comprehension a
 
 > Abstract: Our benchmark offers (1) a comprehensive dataset and multi-dimensional evaluation pipeline; (2) an up-to-date leaderboard on MLLM figure reproduction proficiency; and (3) a nuanced understanding of the perceiving and reasoning bottlenecks hindering unified comprehension and generation in current MLLMs.
 
----
+
 
 ## News
 - [2026/10/9] 🔥 The FigCodeBench dataset will be hosted and version-tracked on Hugging Face, and will be permanently accessible at [CCZZJJ/FigCodeBench](https://huggingface.co/datasets/CCZZJJ/FigCodeBench).
@@ -52,7 +52,7 @@ Researchers often have a scientific figure and need working code that reproduces
 1. 📈 **Comprehensive**：Containing 6,194 image-code pairs, covering four programming languages (Python, Matlab, R, and Latex). 
 2. 🛠️ **Automatic**：Providing image-oriented, code-oriented metrics, _Mean Machine Opinion Score_, and _Figure-Code Fidelity_ metric.
 3. 🏆 **24 MLLMs**：In-depth experiments were conducted on 24 mainstream MLLMs, revealing the capability boundaries of different models in the "figure-to-code" task, as well as their adaptability to different programming languages and common error patterns.
----
+
 
 ## 📊 Dataset & Metrics
 * Huggingface: [Downloading link](https://huggingface.co/datasets/CCZZJJ/FigCodeBench/)
@@ -173,15 +173,15 @@ python FigCodeBench/figure_generation/generating_latex.py
 ```
 `pdflatex` may be used for examples that are compatible with it, but it is not the reference engine. Examples that depend on XeLaTeX-specific font or Unicode features may not compile with `pdflatex`.
 
----
+
 
 ## Evaluated Models
 We select **24** up to date and prevailing MLLMs for evaluation including **11** proprietary MLLMs and **13** open-source MLLMs. 
-<div style="width: 60%; text-align: center; margin:auto;">
+<div style="width: 50%; text-align: center; margin:auto;">
       <img style="width:100%" src="asset/evaluated_models.png">
 </div>
 
----
+
 
 ## FigCodeBench Leaderboard
 _Left_: Mean Machine Opinion Score (MMOS) versus average cost per problem for various models. 
