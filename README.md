@@ -234,8 +234,8 @@ _Right_: Performance comparison of six representative models on different image 
 <details close>
 <summary>Results on Figure-Code Fiedlity (FCF) (click to expand)</summary>
 
-<div style="width: 70%; text-align: center; margin:auto;">
-      <img style="width:100%" src="figure/FCF.png">
+<div style="width: 100%; text-align: center; margin:auto;">
+      <img style="width:100%" src="asset/FCF.png">
   </div>
 </details>
 
