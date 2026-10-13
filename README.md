@@ -5,9 +5,10 @@
     <a href="https://arxiv.org/abs/2610.10066"><img src="https://img.shields.io/badge/Arxiv-2610:10066-red"/></a>
     <a href="https://huggingface.co/datasets/CCZZJJ/FigCodeBench"><img src="https://img.shields.io/badge/Dataset-Release-green"></a>
     <a href="https://github.com/zijianchen98/FigCodeBench"><img src="https://img.shields.io/badge/Awesome-FigCodeBench-orange"/></a>
+    <a href="https://huggingface.co/datasets/CCZZJJ/FigCodeBench"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FCCZZJJ%2FigCodeBench&query=%24.downloads&label=downloads&logo=huggingface&color=yellow"/></a>
 </div>
     
-[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Flututu%2FCSMBench&query=%24.downloads&label=downloads&logo=huggingface&color=yellow)](https://huggingface.co/datasets/lututu/CSMBench)
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FCCZZJJ%2FigCodeBench&query=%24.downloads&label=downloads&logo=huggingface&color=yellow)](https://huggingface.co/datasets/CCZZJJ/FigCodeBench)
 
     
 <div style="width:20%; text-align:center; margin:auto;">
