@@ -7,7 +7,8 @@
     <a href="https://github.com/zijianchen98/FigCodeBench"><img src="https://img.shields.io/badge/Awesome-FigCodeBench-orange"/></a>
 </div>
     
-[![Downloads](https://img.shields.io/huggingface/dataset/downloads/CCZZJJ/FigCodeBench)](https://huggingface.co/datasets/CCZZJJ/FigCodeBench)
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2Flututu%2FCSMBench&query=%24.downloads&label=downloads&logo=huggingface&color=yellow)](https://huggingface.co/datasets/lututu/CSMBench)
+
     
 <div style="width:20%; text-align:center; margin:auto;">
 <img style="width:50%" src="asset/icon.png"></div>
